@@ -1,0 +1,6 @@
+- 👋 olá meu nome é @mariaclaradossantos
+- :-1: meu email de contato é @mariaclaradossantos
+- 👀 eu estou enteressada em aprender a programar novas linguagens...
+- 🌱 eu estou aprendendo a programar recentemente a linguagem do javaScrpt e schatch ...
+
+
